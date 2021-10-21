@@ -36,7 +36,7 @@ function print() {
   console.log(b);
   console.log(c);
   console.log(d);
-  var a = 15;
+  var a = 30;
   d = 50;
 }
 
